@@ -6,4 +6,4 @@ pkg install curl
 Pkg install libcurl
 git clone https://github.com/PICKFORD-DC/DEFACE
 cd DEFACE
-bash deface.sh
+bash webdav
